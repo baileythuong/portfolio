@@ -59,7 +59,7 @@ export default function Skills() {
             </div>
             <div className="container pt-4 pb-1">
               <h4 className="description">Communication Languages</h4>
-              <div className="col d-flex justify-content-around container pt-1 languages">
+              <div className="col d-flex justify-content-between pt-1 languages">
                 <h5 className="my-0">
                   <img
                     src="https://img.icons8.com/officexs/16/000000/vietnam.png"
@@ -86,7 +86,7 @@ export default function Skills() {
                   ></img>{" "}
                   French
                 </h5>
-                <p className="proficiency mx-1">Limited Working Proficiency</p>
+                <p className="proficiency mx-1">Limited Proficiency</p>
               </div>
             </div>
           </main>

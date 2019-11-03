@@ -15,7 +15,7 @@ export default function NavigationBar() {
             id="mainNav"
             style={{ backgroundColor: "#bd5d38" }}
           >
-            <div className="container d-flex justify-content-center">
+            <div className="container d-flex justify-content-between">
               <img
                 src="https://i.ibb.co/zGPBnKr/11223739-807353746051339-9098819089251688776-n.jpg"
                 width="150"
@@ -24,6 +24,7 @@ export default function NavigationBar() {
                 alt="Profile"
               ></img>
             </div>
+
             <div className="container collapse navbar-collapse">
               <Scrollspy
                 items={[
@@ -36,7 +37,7 @@ export default function NavigationBar() {
                   "interest"
                 ]}
                 currentClassName="active"
-                className="flex-md-column flex-row navbar-nav w-100 justify-content-around"
+                className="flex-md-column flex-row navbar-nav w-100 justify-content-between"
               >
                 <li className="nav-item nav-text d-block d-md-none">
                 <a className="float" href="#top">
@@ -74,7 +75,7 @@ export default function NavigationBar() {
                   </a>
                 </li>
                 <li className="nav-item nav-text">
-                  <a className="nav-link pl-0" href="#interest">
+                  <a className="nav-link pl-0 d-none d-md-inline" href="#interest">
                     {" "}
                     <span>Interests</span>
                   </a>

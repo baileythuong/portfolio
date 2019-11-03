@@ -2,6 +2,7 @@ import React from 'react'
 
 export default function Experience() {
     return (
+      <>
         <div className="container-fluid">
         <section>
           <main className="offset-md-2 my-3 px-3 pt-3" id="experience">
@@ -19,7 +20,8 @@ export default function Experience() {
           </div>
           </main>
         </section>
-        <hr></hr>
       </div>
+      <hr></hr>
+      </>
     )
 }

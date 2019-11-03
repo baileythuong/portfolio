@@ -7,7 +7,7 @@ export default function AboutMe() {
       <section id="about">
         <main className="offset-md-2 my-3 px-3 pt-3">
           <div className="jumbotron jumbotron-fluid bg-transparent">
-            <div className="container">
+            <div className="container py-4">
               <h1 className="header">
                 BAILEY <span style={{ color: "#bd5d38" }}>NGUYEN</span>
               </h1>
@@ -36,8 +36,8 @@ export default function AboutMe() {
           </div>
         </main>
       </section>
-      <hr></hr>
     </div>
+    <hr></hr>
     </>
   );
 }

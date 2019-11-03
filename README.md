@@ -1,5 +1,5 @@
 # Thuong's Portfolio
-Live demo [here](#).
+Live demo [here](https://thuong.netlify.com/).
 
 ## Required Features
 - [x] User can see the name, description, and GitHub Source link of at least two projects that you have created.

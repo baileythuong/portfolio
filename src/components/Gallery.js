@@ -30,6 +30,7 @@ export default function Gallery() {
                     <a
                       href="https://github.com/llamadelrey/CoderSchool-airfighter-game"
                       target="_blank"
+                      rel="noopener noreferrer"
                       class="btn btn-outline-dark mx-2"
                     >
                       Repository
@@ -37,6 +38,7 @@ export default function Gallery() {
                     <a
                       href="https://airfighter.netlify.com/"
                       target="_blank"
+                      rel="noopener noreferrer"
                       class="btn btn-outline-dark ml-2"
                     >
                       Demo

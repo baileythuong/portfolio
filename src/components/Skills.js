@@ -60,6 +60,7 @@ export default function Skills() {
             <div className="container pt-4 pb-1">
               <h4 className="description">Communication Languages</h4>
               <div className="col d-flex justify-content-between pt-1 languages">
+                <div className="container">
                 <h5 className="my-0">
                   <img
                     src="https://img.icons8.com/officexs/16/000000/vietnam.png"
@@ -69,6 +70,9 @@ export default function Skills() {
                   Vietnamese
                 </h5>
                 <p className="proficiency mx-1">Native Proficiency</p>
+                </div>
+
+                <div className="container">
                 <h5 className="my-0">
                   <img
                     src="https://img.icons8.com/officexs/16/000000/usa.png"
@@ -78,6 +82,9 @@ export default function Skills() {
                   English
                 </h5>
                 <p className="proficiency mx-1">Bilingual Proficiency</p>
+                </div>
+
+                <div className="container">
                 <h5 className="my-0">
                   <img
                     src="https://img.icons8.com/officexs/16/000000/france.png"
@@ -87,6 +94,7 @@ export default function Skills() {
                   French
                 </h5>
                 <p className="proficiency mx-1">Limited Proficiency</p>
+                </div>
               </div>
             </div>
           </main>

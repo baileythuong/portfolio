@@ -37,7 +37,7 @@ export default function NavigationBar() {
                   "interest"
                 ]}
                 currentClassName="active"
-                className="flex-md-column flex-row navbar-nav w-100 justify-content-between"
+                className="flex-md-column flex-row navbar-nav w-100 justify-content-around"
               >
                 <li className="nav-item nav-text d-block d-md-none">
                 <a className="float" href="#top">

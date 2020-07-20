@@ -9,7 +9,7 @@ export default function AboutMe() {
           <div className="jumbotron jumbotron-fluid bg-transparent">
             <div className="container py-4">
               <h1 className="header">
-                BAILEY <span style={{ color: "#bd5d38" }}>NGUYEN</span>
+                PHAM NGUYEN <span style={{ color: "#bd5d38" }}>NGOC THUONG</span>
               </h1>
               <h3 className="pb-3">
                 <span style={{ color: "#a9a9a9" }}>

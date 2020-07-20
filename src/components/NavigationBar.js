@@ -17,7 +17,7 @@ export default function NavigationBar() {
           >
             <div className="container d-flex justify-content-between">
               <img
-                src="https://i.ibb.co/zGPBnKr/11223739-807353746051339-9098819089251688776-n.jpg"
+                src="https://media-exp1.licdn.com/dms/image/C5103AQHxuU6uFaDBTg/profile-displayphoto-shrink_400_400/0?e=1600905600&v=beta&t=CN06cOlNHDF1O3jEepngVOtMF0oJwkp73Rw06hbwq_c"
                 width="150"
                 height="150"
                 className="img-fluid rounded-circle d-none d-md-inline my-5"

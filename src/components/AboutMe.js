@@ -13,7 +13,7 @@ export default function AboutMe() {
               </h1>
               <h3 className="pb-3">
                 <span style={{ color: "#a9a9a9" }}>
-                  440/26/9 Nguyen Kiem, Phu Nhuan, HCMC, Vietnam · +84933265658 ·{" "}
+                  572/58 Ong Ich Khiem, Hai Chau, Danang City, Vietnam · +84933265658 ·{" "}
                 </span>
                 <a href="mailto:baileythuong@gmail.com" style={{ color: "#bd5d38" }}>baileythuong@gmail.com</a>
               </h3>
@@ -28,7 +28,7 @@ export default function AboutMe() {
                 <a href="https://www.linkedin.com/in/thuongpham/">
                   <i className="fab fa-linkedin fa-3x mr-2"></i>
                 </a>
-                <a href="https://github.com/llamadelrey/">
+                <a href="https://github.com/baileythuong/">
                   <i className="fab fa-github fa-3x mx-2"></i>
                 </a>
               </div>

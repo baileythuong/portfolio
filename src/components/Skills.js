@@ -41,8 +41,32 @@ export default function Skills() {
                   className="img-fluid"
                 ></img>
                 <img
+                  src="https://img.icons8.com/color/96/000000/vue-js.png"
+                  alt="Vuejs"
+                  className="img-fluid"
+                ></img>
+                <img
+                  src="https://avatars0.githubusercontent.com/u/22138497?s=400&v=4"
+                  width="96"
+                  height="96"
+                  alt="Vuetify"
+                  className="img-fluid"
+                ></img>
+                <img
+                  src="https://cdn.quasar.dev/logo/512/quasar-logo.png"
+                  width="96"
+                  height="96"
+                  alt="Quasar"
+                  className="img-fluid"
+                ></img>
+                <img
                   src="https://img.icons8.com/color/96/000000/nodejs.png"
                   alt="Nodejs"
+                  className="img-fluid"
+                ></img>
+                <img
+                  src="https://img.icons8.com/color/96/000000/python.png"
+                  alt="Python"
                   className="img-fluid"
                 ></img>
                 <img
@@ -61,39 +85,39 @@ export default function Skills() {
               <h4 className="description">Communication Languages</h4>
               <div className="col d-flex justify-content-between pt-1 languages">
                 <div className="container">
-                <h5 className="my-0">
-                  <img
-                    src="https://img.icons8.com/officexs/16/000000/vietnam.png"
-                    alt="Vietnamese"
-                    className="mb-1"
-                  ></img>{" "}
+                  <h5 className="my-0">
+                    <img
+                      src="https://img.icons8.com/officexs/16/000000/vietnam.png"
+                      alt="Vietnamese"
+                      className="mb-1"
+                    ></img>{" "}
                   Vietnamese
                 </h5>
-                <p className="proficiency mx-1">Native Proficiency</p>
+                  <p className="proficiency mx-1">Native Proficiency</p>
                 </div>
 
                 <div className="container">
-                <h5 className="my-0">
-                  <img
-                    src="https://img.icons8.com/officexs/16/000000/usa.png"
-                    alt="American English"
-                    className="mb-1"
-                  ></img>{" "}
+                  <h5 className="my-0">
+                    <img
+                      src="https://img.icons8.com/officexs/16/000000/usa.png"
+                      alt="American English"
+                      className="mb-1"
+                    ></img>{" "}
                   English
                 </h5>
-                <p className="proficiency mx-1">Bilingual Proficiency</p>
+                  <p className="proficiency mx-1">Bilingual Proficiency</p>
                 </div>
 
                 <div className="container">
-                <h5 className="my-0">
-                  <img
-                    src="https://img.icons8.com/officexs/16/000000/france.png"
-                    alt="French"
-                    className="mb-1"
-                  ></img>{" "}
+                  <h5 className="my-0">
+                    <img
+                      src="https://img.icons8.com/officexs/16/000000/france.png"
+                      alt="French"
+                      className="mb-1"
+                    ></img>{" "}
                   French
                 </h5>
-                <p className="proficiency mx-1">Limited Proficiency</p>
+                  <p className="proficiency mx-1">Limited Proficiency</p>
                 </div>
               </div>
             </div>
